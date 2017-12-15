@@ -1,0 +1,1 @@
+[{ "key": "139~DTT_1304_1503295272058", "target" : "DTT_INFO", "content" :"{ \"query\" : \"delete from dtt_info where dtt_code =? and app_id =?;\", \"params\" : [$DQ$DTT_1304_1503295272058$DQ$, $DQ$139$DQ$] }", "qry_type" : "D"  }]
