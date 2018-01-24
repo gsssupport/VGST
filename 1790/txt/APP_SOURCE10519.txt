@@ -1,0 +1,1 @@
+[{ "key": "D~139~vgstbypassprocessforgstr4", "target" : "APP_CCI_PROJECTS", "content" :"{ \"query\" : \"delete from app_cci_projects where app_id = ?  and project_name = ?;\", \"params\" : [$DQ$139$DQ$, $DQ$vgstbypassprocessforgstr4$DQ$] }", "qry_type" : "D"  }]
